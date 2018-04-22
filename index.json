@@ -10,7 +10,7 @@
             "name": "slack",
             "tags": ["productivity", "chat"],
             "version": "latest",
-            "package_hash": "d6cafe25bdf92544b1059628301a20e364c42cf9f730ac094831a36f07e71ac6"
+            "package_hash": "121e809d933db5b90e691726758b27172589c4bdac8e71465761b2508178a082"
         }
     ]
 }
