@@ -1,0 +1,10 @@
+{
+    "releases": [
+        {
+            "name": "atom",
+            "tags": ["editor", "ide"],
+            "version": "latest",
+            "package_hash": "3dfb759edcd51eb2741bf5242ecef6878f2213c8145367f9d28238670908d433"
+        }
+    ]
+}
