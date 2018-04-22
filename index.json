@@ -5,6 +5,13 @@
             "tags": ["editor", "ide"],
             "version": "latest",
             "package_hash": "3dfb759edcd51eb2741bf5242ecef6878f2213c8145367f9d28238670908d433"
+        },
+        {
+            "name": "slack",
+            "tags": ["productivity", "chat"],
+            "version": "latest",
+            "package_hash": "d6cafe25bdf92544b1059628301a20e364c42cf9f730ac094831a36f07e71ac6"
         }
     ]
 }
+
