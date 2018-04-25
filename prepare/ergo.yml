@@ -1,0 +1,13 @@
+name: ergo
+
+version: latest
+
+prepare: 
+- exec go get github.com/dbaltas/ergo
+- cd /Users/leonidasvrachnis/go/src/github.com/dbaltas/ergo
+- exec go build .
+
+pack: ergo 
+
+install:
+  - ln ergo @bin

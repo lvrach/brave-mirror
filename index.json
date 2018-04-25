@@ -1,17 +1,1 @@
-{
-    "releases": [
-        {
-            "name": "atom",
-            "tags": ["editor", "ide"],
-            "version": "latest",
-            "package_hash": "3dfb759edcd51eb2741bf5242ecef6878f2213c8145367f9d28238670908d433"
-        },
-        {
-            "name": "slack",
-            "tags": ["productivity", "chat"],
-            "version": "latest",
-            "package_hash": "121e809d933db5b90e691726758b27172589c4bdac8e71465761b2508178a082"
-        }
-    ]
-}
-
+{"releases":[{"name":"atom","Aliases":null,"Tags":["editor","ide"],"version":"latest","Description":"","package_hash":"3dfb759edcd51eb2741bf5242ecef6878f2213c8145367f9d28238670908d433","InstructHash":""},{"name":"slack","Aliases":null,"Tags":["productivity","chat"],"version":"latest","Description":"","package_hash":"121e809d933db5b90e691726758b27172589c4bdac8e71465761b2508178a082","InstructHash":""},{"name":"ergo","Aliases":null,"Tags":null,"version":"latest","Description":"","package_hash":"4e464fab2bdf175a2a52845e9d26974e0e62548322445d107251f442a5bf7df9","InstructHash":""}]}
