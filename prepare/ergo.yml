@@ -10,4 +10,4 @@ prepare:
 pack: ergo 
 
 install:
-  - ln ergo @bin
+  - export ergo
